@@ -1,39 +1,30 @@
+# 🌟 My Portfolio Website
 
-# My Portfolio Website ✨
+A personal portfolio website crafted with HTML, CSS, and JavaScript. It presents my skills, projects, and contact details in a sleek, user-friendly interface, featuring both light and dark mode options for an enhanced experience.
 
-A Personal Portfolio Website built using HTML, CSS, and JavaScript. It showcases my skills, projects, and contact information in a professional, user-friendly design, supporting light and dark modes.
+# 🚀 Key Features
+Home Page – A brief introduction about myself.
 
-# 🚀Features
+About Page – Insights into my background, journey, and interests.
 
-Home Page: A welcoming section introducing myself.
+Skills Page – A display of my technical and professional expertise.
 
-About Page: Detailed information about me, my journey, and my interests.
+Projects Page – Showcasing my completed and ongoing projects.
 
-Skills Page: A showcase of my technical and professional skills.
+Contact Page – A simple way for visitors to reach out to me.
 
-Projects Page: Highlights of my completed and ongoing projects.
-
-Contact Page: An easy way to get in touch with me.
-
-Dark/Light Mode: Switch between dark and light themes for better usability.
+Dark/Light Mode – Toggle between light and dark themes for better usability.
 
 # 🛠️ Technologies Used
+HTML – Structuring the website.
 
-HTML: For structuring the website.
+CSS – Enhancing the design and visual appeal.
 
-CSS: For styling and creating a visually appealing design.
+JavaScript – Adding interactivity, such as theme switching and dynamic content.
 
-JavaScript: For interactive elements like theme switching and dynamic content.
-
-# 🚀 Live Demo
-
+# 🌍 Live Demo
 https://fayaal-paakeer.github.io/My-Portflio
 
-# 👩‍💻 Author
+# 👨‍💻 Created By
 
 Fayaal Paakeer
-
-
-
-
-
