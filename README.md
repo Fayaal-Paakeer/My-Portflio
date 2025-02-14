@@ -32,7 +32,7 @@ JavaScript – Adding interactivity, such as theme switching and dynamic content
 .My-Profile
 ├── index.html
 └── packages
-    ├── css
+    ├── CSS
     |   └── main.css
     ├── images
     └── JS
@@ -67,7 +67,7 @@ git commit -m "Initial commit"
 
 Step 7: Link your local repository to GitHub:
 ```bash
-
+https://github.com/Fayaal-Paakeer/My-Portflio
 ```
 
 Step 8: Push the files to GitHub:
@@ -139,11 +139,6 @@ git add .
 git commit -m "Updated portfolio"
 git push origin main
 ```
-
-Verified that GitHub Pages was enabled in the repository settings
-
-
-
 
 # 🌍 Live Demo
 
