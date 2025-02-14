@@ -22,8 +22,15 @@ CSS – Enhancing the design and visual appeal.
 
 JavaScript – Adding interactivity, such as theme switching and dynamic content.
 
-# 🌍 Live Demo
-https://fayaal-paakeer.github.io/My-Portflio
+## 📂 File Structure
+
+•⁠  ⁠*Img* – images
+
+•⁠  ⁠*CSS* – CSS styles
+
+•⁠  ⁠*JS* – JS files
+
+•⁠  ⁠*HTML* – Main index html page
 
 # How to Run the Project Locally
 Step 1: Open your terminal or command prompt.
@@ -52,10 +59,8 @@ git commit -m "Initial commit"
 
 Step 7: Link your local repository to GitHub:
 ```bash
- git remote add origin https://github.com/your-username/your-repo-
-name.git
+
 ```
-(Replace your-username and your-repo-name accordingly.)
 
 Step 8: Push the files to GitHub:
 ```bash
@@ -128,6 +133,13 @@ git push origin main
 ```
 
 Verified that GitHub Pages was enabled in the repository settings
+
+
+
+
+# 🌍 Live Demo
+
+https://fayaal-paakeer.github.io/My-Portflio
 
 # 👨‍💻 Created By
 
