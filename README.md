@@ -1,5 +1,3 @@
-# Hi, I'm Fayaal Paakeer! 👋
-
 # 🌟 This is My Portfolio Website
 
 A personal portfolio website crafted with HTML, CSS, and JavaScript. It presents my skills, projects, and contact details in a sleek, user-friendly interface, featuring both light and dark mode options for an enhanced experience.
@@ -136,7 +134,7 @@ Made sure all changes were committed and pushed.
 
 ```bash
 git add .
-git commit -m "Updated portfolio"
+git commit -m "Second commit"
 git push origin main
 ```
 
