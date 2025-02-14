@@ -1,4 +1,4 @@
-# Hi, I'm Katherine! 👋
+# Hi, I'm Fayaal Paakeer! 👋
 
 # 🌟 This is My Portfolio Website
 
