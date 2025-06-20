@@ -140,7 +140,8 @@ git push origin main
 
 # 🌍 Live Demo
 
-[Fayaal-Paakeer](https://fayaal-paakeer.github.io/My-Portflio)
+[Fayaal-Paakeer](https://fayaal.netlify.app/)
+
 
 # 👨‍💻 Created By
 
